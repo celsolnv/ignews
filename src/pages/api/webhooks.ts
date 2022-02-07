@@ -38,8 +38,6 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
         process.env.STRIPE_WEBHOOK_SECRET
       );
     } catch (err) {
-      console.log(secret);
-      console.log("Fudeu demais", err.message);
       return res.status(400).send(`Webhook error: ${err.message}`);
     }
 
