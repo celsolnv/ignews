@@ -5,7 +5,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/celsolnv/ignews?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/celsolnv/ignews?style=for-the-badge)
 
-<img src="https://i.ibb.co/t2XZQWT/ignews.png" alt="exemplo imagem">
+<img src="https://raw.githubusercontent.com/celsolnv/images/main/ignews/ignews.png" alt="exemplo imagem">
 
 > O projeto simula um site de blogs pagos. Onde você consegue se inscrever com o github e pagar com um cartão falso para testar e ter a experiência completa
 
